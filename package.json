@@ -1,6 +1,15 @@
 {
-   "name": "exemplo",
-   "main": "app.js"
-
-
-}  
+  "name": "exemplo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "description": "",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
